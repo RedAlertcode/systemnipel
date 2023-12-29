@@ -10,6 +10,18 @@ build/*
 .DS_Store
 /.irb-history
 /screenshot_*.png
+.build/# Xcode
+.bundle/
+build/*
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*
+.idea/
+.DS_Store
+/.irb-history
+/screenshot_*.png
 .build/
 
 history_bash.txt
